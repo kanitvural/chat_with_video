@@ -11,6 +11,7 @@ chromadb
 scrapetube
 pydub
 yt_dlp
+ffmpeg
 black
 isort
 
