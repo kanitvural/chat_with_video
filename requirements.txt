@@ -5,17 +5,13 @@ langchain
 langchain-openai
 langchain-google-genai
 langchain_experimental
-langchain_cohere
-anthropic
-cohere
 beautifulsoup4
 faiss-cpu
 chromadb
-pypdf
-unstructured
-networkx
-openpyxl
-rapidocr-onnxruntime
+scrapetube
+pydub
+yt_dlp
 black
 isort
+
 
