@@ -14,5 +14,6 @@ yt_dlp
 ffmpeg
 black
 isort
+ffmpeg-python
 
 

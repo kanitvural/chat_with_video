@@ -32,15 +32,16 @@ def get_video_transcrypt(url):
 
 # Youtube search
 
+
 def get_videos_for_search_term(
     search_term, video_count=1, sorting_criteria="relevance"
 ):
 
     convert_sorting_option = {
-        "relevance": "Relevance",
-        "upload_date": "Date",
-        "view_count": "Views",
-        "rating": "Likes",
+       "Relevance":"relevance",
+       "Date":"upload_date",
+        "Views":"view_count",
+        "Likes":"rating",
     }
 
     videos = scrapetube.get_search(
