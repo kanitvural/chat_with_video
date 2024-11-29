@@ -23,8 +23,8 @@ It is a powerful application that allows you to interact with YouTube videos by 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/video2text-qa.git
-    cd video2text-qa
+    git clone https://github.com/kanitvural/chat_with_video.git
+    cd chat_with_video
     ```
 
 2. Install the required packages:
@@ -36,6 +36,11 @@ It is a powerful application that allows you to interact with YouTube videos by 
     - **Windows:** Download and install from [FFmpeg official site](https://ffmpeg.org/download.html), and ensure FFmpeg is added to your system's PATH.
     - **Linux:** Install via package manager, e.g., `sudo apt install ffmpeg`.
     - **Mac:** Use Homebrew to install, `brew install ffmpeg`.
+
+4. Run app:
+    ```bash
+    streamlit run app.py
+    ```
 
 ## Usage
 
