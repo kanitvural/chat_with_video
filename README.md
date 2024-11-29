@@ -25,6 +25,10 @@ It is a powerful application that allows you to interact with YouTube videos by 
     ```bash
     git clone https://github.com/kanitvural/chat_with_video.git
     cd chat_with_video
+    python -m venv venv
+    - **Windows:** venv\Scripts\activate
+    - **Linux:** source venv/bin/activate
+    - **Mac:** source venv/bin/activate
     ```
 
 2. Install the required packages:
